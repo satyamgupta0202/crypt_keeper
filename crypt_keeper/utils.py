@@ -4,7 +4,7 @@ from Crypto.Util.Padding import pad, unpad
 
 
 class CryptKeeper:
-    def __init__(self, key: str):
+    def __init__(self):
         self.__current_private_key = "aaaaaaaaaaaaaaaa".encode('utf-8')
         self.__current_identity_iv = "aaaaaaaaaaaaaaaa".encode('utf-8')
 
