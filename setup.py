@@ -8,7 +8,7 @@ setuptools.setup(
     author_email="satyamguptaece@gmail.com",
     packages=['crypt_keeper'],
     description="Package to encrypt and decrypt PII data using AES-128-CBC",
-    url="https://github.com/Capri-Global-Capital-Ltd/core-encryption",
+    url="https://github.com/satyamgupta0202/crypt_keeper",
     license='unilicense',
     zip_safe=False,
     python_requires='>=3.8',
